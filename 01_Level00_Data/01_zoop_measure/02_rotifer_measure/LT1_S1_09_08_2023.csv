@@ -1,5 +1,0 @@
-﻿amountSubSampled,subSampleTotal,subSampleExpansionCoef,subSampleMethod,sampleID,vesselID,vesselSerialNumber,dateCollect,timeCollect,ESTorEDT,netMesh,netDiameter,towDirection,towDepthStart,towDepthEnd,waterLayer,stationDepth,stationID,repID,flowMeterID,flowMeterRevolutions,flowMeterCalibration,collectedBy,preservationTechnique,sampleComment,processedBy,processDate,processComment,scopeUsed,species,organismCount,length,width
-1,10,,,LT1_S1_09_08_2023 ,,,09_08_2023 ,,,,,,,,,,,,,,,,,,,,,,Anuraeopsis,1,166.8,81.38
-1,10,,,LT1_S1_09_08_2023 ,,,09_08_2023 ,,,,,,,,,,,,,,,,,,,,,,Anuraeopsis,1,189.41,92.83
-1,10,,,LT1_S1_09_08_2023,,,09_08_2023,,,,,,,,,,,,,,,,,,,,,,Monostyla,1,157.2,139.53
-1,10,,,LT1_S1_09_08_2023,,,09_08_2023,,,,,,,,,,,,,,,,,,,,,,Notommata,1,162.59,76.84
