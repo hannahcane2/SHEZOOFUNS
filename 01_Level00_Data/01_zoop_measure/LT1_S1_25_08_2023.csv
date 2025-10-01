@@ -1,0 +1,120 @@
+subSampleID,amountSubSampled,subSampleTotal,subSampleExpansionCoef,subSampleMethod,sampleID,vesselID,vesselSerialNumber,dateCollect,timeCollect,ESTorEDT,netMesh,netDiameter,towDirection,towDepthStart,towDepthEnd,waterLayer,stationDepth,stationID,repID,flowMeterID,flowMeterRevolutions,flowMeterCalibration,collectedBy,preservationTechnique,sampleComment,processedBy,processDate,processComment,scopeUsed,species,organismCount,length,sex
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2145,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2056,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Chydorus,1,0.2207,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Cyclopoid copedite,1,0.4461,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1771,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2137,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2171,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Bosmina,1,0.2964,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1685,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1785,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1376,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Acanthocylops,1,0.5113,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Cyclopoid copedite,1,0.4605,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.281,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1566,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1983,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1703,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1733,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1798,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1704,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2163,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.263,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2133,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Cyclopoid copedite,1,0.3613,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Cyclopoid copedite,1,0.3462,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1583,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1872,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Cyclopoid copedite,1,0.3806,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2625,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2545,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2367,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1698,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Cyclopoid copedite,1,0.3565,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2201,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2086,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1571,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1774,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2202,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2574,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1742,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1732,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1999,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.3172,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.182,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2236,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2351,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1953,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1622,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Acanthocylops,1,0.5155,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.291,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2171,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Chydorus,1,0.3736,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2788,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.36,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.3501,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1855,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.3336,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2001,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1956,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1875,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2457,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2433,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.3135,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2412,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Cyclopoid copedite,1,0.3757,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2227,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.3438,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.3384,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1806,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2925,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1972,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2033,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.163,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1747,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1788,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1915,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1939,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2438,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.3136,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Cyclopoid copedite,1,0.5536,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1874,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1816,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2465,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1775,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1951,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1035,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1457,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Cyclopoid copedite,1,0.4378,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2751,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1313,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1742,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1593,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2706,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1994,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Ceriodaphnia,1,0.2599,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2573,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2227,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1758,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1742,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Cyclopoid copedite,1,0.4377,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1747,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2397,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1758,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.189,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1696,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1528,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1978,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1731,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2294,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2648,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.173,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.223,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2422,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1701,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1875,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.3292,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1785,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.2375,NA
+,6,100,,,LT1_S1_25_08_2023,,,25_08_2023,,,,,,,,,,,,,,,,,,Samantha Gonsalves,04_03_2024,,UVM_SZX12,Nauplii,1,0.1245,NA
